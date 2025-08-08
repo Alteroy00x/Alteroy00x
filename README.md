@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me tanmaykamble@gmail.com
 - 🌐 https://alteroy00x.github.io/Alteroy00x/
-- https://alteroy00x.github.io/first-portfolio-card/
+- 🌐 https://alteroy00x.github.io/first-portfolio-card/
 <!---
 Alteroy00x/Alteroy00x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
